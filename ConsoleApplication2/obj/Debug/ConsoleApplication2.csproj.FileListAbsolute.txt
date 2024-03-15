@@ -1,0 +1,9 @@
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\bin\Debug\SlimDX.dll
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Orhan\Desktop\joystick\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
